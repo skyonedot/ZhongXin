@@ -64,7 +64,7 @@ const PageTwo = () => {
 
       <div style={{marginTop:32}}>
       <div style={{marginBottom:2}}>
-        3. 单步暂停滚动（鼠标存在与否不影响数据的滚动），如下所示
+        3. 无缝滚动（鼠标存在与否不影响数据的滚动），如下所示
         </div>
       <ScrollList dataList={dataList_big} mode={"auto"} />
       </div>
